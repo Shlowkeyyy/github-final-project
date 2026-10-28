@@ -1,0 +1,5 @@
+﻿git branch -vv
+  bug-fix-typo 1cc02bb [origin/bug-fix-typo: ahead 1] Add pull request verification evidence * main         4c579cd [origin/main] Add pull request verification evidence
+
+git status -sb
+## main...origin/main
